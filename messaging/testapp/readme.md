@@ -38,7 +38,7 @@ viewed via the console:
 1. Execute.
 1. Observe the command received in the app, via the console output.
 
-Reminder, while this process is currently done from our website, it uses the FCM v1 Send API directly and provides the simplest starting point to switch to using the Send API or Admin SDKs in production.
+Reminder, while this process is currently done from our website, it uses the FCM v1 Send API directly and provides the simplest starting point to switch to using the v1 Send API or the Firebase Admin SDK in production.
 
 ## Troubleshooting and Support
 - [Firebase Cloud Messaging troubleshooting & FAQ](https://firebase.google.com/docs/cloud-messaging/troubleshooting)
